@@ -189,7 +189,8 @@ nav{
 
     }
     .page1{
-        background-position: 15% 50%;
+        background-size: 80%;
+        background-repeat:no-repeat;
     }
 
 .nav-active{
