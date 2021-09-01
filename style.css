@@ -187,7 +187,7 @@ nav{
         display: block;
 
     }
-    .page1{
+    .page1 .page2 .page3 .page4 {
         background-attachment: scroll;
     }
 
