@@ -19,7 +19,7 @@ body{
     height: 100vh;
     width: 100%;
     background-color: #F0E5CF;
-    background-image: url(img/upper.png);
+    background-image: url(img/upper.webp);
     background-size: cover;
     background-position:left;
     display: table;
@@ -30,7 +30,7 @@ body{
     height: 100vh;
     width: 100%;
     background-color: #F0E5CF;
-    background-image: url(img/lower.png);
+    background-image: url(img/lower.webp);
     background-size: cover;
     background-position: left;
     display: table;
@@ -41,7 +41,7 @@ body{
     height: 100vh;
     width: 100%;
     background-color: #F0E5CF;
-    background-image: url(img/help.png);
+    background-image: url(img/help.webp);
     background-size: cover;
     background-position: left;
     display: table;
@@ -52,7 +52,7 @@ body{
     height: 100vh;
     width: 100%;
     background-color: #F0E5CF;
-    background-image: url(img/help.png);
+    background-image: url(img/help.webp);
     background-size: cover;
     background-position: left;
     display: table;
@@ -89,7 +89,7 @@ a{
     background-color: #F0E5CF;
     margin: auto;
     padding: 0px;
-    width: 30%;
+    width: 35%;
     border: 3.5px solid black;
     border-radius: 10px;
     font-size: 2.7vw;
