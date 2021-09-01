@@ -189,8 +189,7 @@ nav{
 
     }
     .page1{
-        background-size: 80%;
-        background-repeat:no-repeat;
+        
     }
 
 .nav-active{
@@ -220,4 +219,19 @@ nav{
     transform: rotate(45deg) translate(-5px,-6px);
 }
 
+}
+
+body:after{
+    content:"";
+    position:fixed; 
+    top:0;
+    height:100vh;
+    left:0;
+    right:0;
+    z-index:-1;
+    background: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
