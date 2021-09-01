@@ -187,7 +187,16 @@ nav{
         display: block;
 
     }
-    .page1 .page2 .page3 .page4 {
+    .page1{
+        background-attachment: scroll;
+    }
+    .page2{
+        background-attachment: scroll;
+    }
+    .page3{
+        background-attachment: scroll;
+    }
+    .page4{
         background-attachment: scroll;
     }
     h1{
