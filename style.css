@@ -89,7 +89,7 @@ a{
     background-color: #F0E5CF;
     margin: auto;
     padding: 0px;
-    width: 35%;
+    width: 40%;
     border: 3.5px solid black;
     border-radius: 10px;
     font-size: 2.7vw;
@@ -189,7 +189,7 @@ nav{
 
     }
     .page1{
-        background-position:center;
+        height: 100vh;
     }
 }
 
