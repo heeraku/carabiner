@@ -203,7 +203,9 @@ nav{
     a{
         font-size: 5vw;
     }
-
+    .help{
+        width: 55%;
+    }
 .nav-active{
     transform: translateX(0%);
 }
