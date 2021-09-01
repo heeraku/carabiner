@@ -201,12 +201,14 @@ nav{
     }
     h1{
         font-size: 15vw;
+        vertical-align:text-top;
+        padding-top: 120px;
     }
     p{
-        font-size: 6vw;
+        font-size: 5vw;
     }
     .p2{
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     a{
