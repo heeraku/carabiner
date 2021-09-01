@@ -188,6 +188,9 @@ nav{
         display: block;
 
     }
+    .page1{
+        background-position:center;
+    }
 }
 
 .nav-active{
