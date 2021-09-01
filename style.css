@@ -190,6 +190,19 @@ nav{
     .page1 .page2 .page3 .page4 {
         background-attachment: scroll;
     }
+    h1{
+        font-size: 15vw;
+    }
+    p{
+        font-size: 6vw;
+    }
+    .p2{
+        font-size: 6vw;
+    }
+
+    a{
+        font-size: 5vw;
+    }
 
 .nav-active{
     transform: translateX(0%);
