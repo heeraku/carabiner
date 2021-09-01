@@ -189,7 +189,7 @@ nav{
 
     }
     .page1{
-        background-position: 10%;
+        object-fit: cover;
     }
 
 .nav-active{
