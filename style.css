@@ -85,7 +85,7 @@ a{
 }
 
 .help{
-    background-color: #F0E5CF;
+    background-color: black;
     margin: auto;
     padding: 0px;
     width: 40%;
@@ -98,8 +98,8 @@ a{
 
 .help:hover{
     background-color: #BEAEE2;
+    
 }
-
 
 
 
